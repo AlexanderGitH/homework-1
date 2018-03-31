@@ -2,4 +2,4 @@
 
 Hi!
 
-My names is Alexander! I am lerning web!
+My name is Alexander! I'm studying the web!
