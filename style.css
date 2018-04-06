@@ -1,0 +1,52 @@
+
+a {
+	text-decoration: none; /* Отменяем подчеркивание у ссылки */
+	color: green;
+}
+
+a:hover {
+    background: #786b59; /* Цвет фона под ссылкой */ 
+    color: #ffe; /* Цвет ссылки */ 
+}
+
+p {
+	font: 18px 'Times New Roman', Times, sans-serif;
+	margin: 15px;
+}
+
+input {
+	padding: 10px 17px;
+	margin-left: 20px;
+	font-size: 20px;
+}
+
+button {
+    padding: 10px 17px;
+	margin-top: 20px;
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid #666;
+	font: 18px 'Times New Roman', Times, sans-serif;
+	cursor: pointer;
+}
+	
+.back {
+	margin: 20px;
+}
+
+#home {
+	text-align: center;
+	font: 28px 'Times New Roman', Times, sans-serif;
+	background-color: #FFF;
+	padding: 20px;
+}
+
+#errors {
+	color: red;
+	font: 18px 'Times New Roman', Times, sans-serif;
+}
+
+#signup {
+	color: green;
+	font: 18px 'Times New Roman', Times, sans-serif;
+}
