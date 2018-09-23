@@ -1,0 +1,17 @@
+#P1 li{
+	list-style: none; /* Убираем исходные маркеры */
+}
+
+#P1 li:before{
+    content: "§ "; /* Добавляем в качестве маркера символ */
+	margin-left: -17px;
+   }
+   
+#P2 li{
+	list-style: none; /* Убираем исходные маркеры */
+}
+
+#P2 li:before{
+    content: "- "; /* Добавляем в качестве маркера символ */
+	margin-left: -17px;
+   }
